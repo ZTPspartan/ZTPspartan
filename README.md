@@ -11,8 +11,8 @@ Busco crecer en conocimiento y continuar mejorando mis habilidades en el campo d
 <h3 align="left">Puedes Contactarme mediante:</h3>
 
 - Gmail: alfonsos99710@gmail.com
-- [Linkedin](https://www.linkedin.com/in/alfonso-pinto-iglesias-7ba183232/)
-- WhatsApp: (+51)951 329 388
+- [Linkedin](linkedin.com/in/alfonso-pinto-iglesias/)
+- WhatsApp: (+51)951 329 388 (enviame un mensaje)
 
 
 ## Tecnologías y herramientas:
